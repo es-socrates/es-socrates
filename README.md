@@ -1,2 +1,2 @@
-## It's me! Sócrates 👋
-### Team at Odysee.com and Getty's dad!
+## It's me!
+### ✦ Team at [Odysee](https://odysee.com) ✦ Creator of [getty](https://app.getty.sh/)

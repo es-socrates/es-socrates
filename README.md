@@ -1,4 +1,3 @@
 ## It's me!
 ### ✦ Team at [odysee](https://odysee.com), a blockchain-based media platform.
-### ✦ Founder of [getty](https://getty.sh/), a streaming tool for creators at Odysee.
-### ✦ Founder of [whiss](https://whiss.me/), gaming conversations without the noise.
+### ✦ Research and Development: I'm building [getty](https://getty.sh/) and [whiss](https://whiss.me/).
